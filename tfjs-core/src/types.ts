@@ -28,7 +28,7 @@ export interface ShapeMap {
 
 /** @docalias number[] */
 export interface ArrayMap {
-  R0: number;
+  R0: [number];
   R1: number[];
   R2: number[][];
   R3: number[][][];
